@@ -5,7 +5,7 @@ https://colab.research.google.com/github/kamilMlynarczykk/projekt-Speech-emotion
 
 ## 1. Goals of project
 
-- Based on human speech predicting those 6 emotions: ANGER, HAPPIENESS, SADNESS, DISGUST, FEAR or NEUTRAL
+- Based on human speech, predicting those 6 emotions: ANGER, HAPPIENESS, SADNESS, DISGUST, FEAR or NEUTRAL
 
 ## 2. Used Datasets
 
@@ -39,10 +39,10 @@ It gave approximately 40 000 samples instead of 10 000
 ## 7. Plotting results
 
 - Train and test: loss and accuracy plots
-- Confusion Matrix on testing data
+- Confusion Matrix on test data
 
 ## 8. Results
 
-- 80% accuracy of predicting six basic emotions tested on this dataset
+- approximately 80% accuracy of predicting six basic emotions tested on this dataset
 
   
