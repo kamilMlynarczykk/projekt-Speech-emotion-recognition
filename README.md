@@ -1,5 +1,8 @@
 # Speech emotion recognition project
 
+Link to google-colab in which the project was done, because of access to GPU:
+https://colab.research.google.com/github/kamilMlynarczykk/projekt-Speech-emotion-recognition/blob/main/Speech_Emotion_Recognition_80percent.ipynb
+
 ## 1. Goals of project
 
 - Based on human speech predicting those 6 emotions: ANGER, HAPPIENESS, SADNESS, DISGUST, FEAR or NEUTRAL
