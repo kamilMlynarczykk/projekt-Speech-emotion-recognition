@@ -32,9 +32,10 @@ It gave approximately 40 000 samples instead of 10 000
 - Data (features and labels) splited into train and test in proportions: 75/25
 - Normalized
 
-## 6. Creating Model
+## 6. Creating NN Model
 
 - CNN
+- LSTM
 
 ## 7. Plotting results
 
